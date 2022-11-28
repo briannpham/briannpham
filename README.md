@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github!
 
-I am a software engineer passionate about building scalable applications and contributing to open source tools to enhance developer productivity. My current interests lies in GraphQL and GraphQL federation. I work day-to-day with technologies such as GraphQL, React, Redux, TypeScript, Node.js, Express, PostgreSQL, NoSQL, and Python.
+I am a software engineer passionate about building scalable applications and contributing to open source tools to enhance developer productivity. My current interest lies in GraphQL and GraphQL federation. I work day-to-day with technologies such as GraphQL, React, Redux, TypeScript, Node.js, Express, PostgreSQL, NoSQL, and Python.
 
 ### Open Source Projects
 &emsp;• Kensa - a GraphQL observability tool. Check out the app <a href="https://github.com/oslabs-beta/Kensa">here</a>, and the most recent article about Kensa <a href="https://medium.com/@raygkim/kensa-8cdecfae73af">here</a>
