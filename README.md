@@ -1,18 +1,3 @@
-### Hi there 👋 Welcome to my Github!
-
-I am a Software Engineer passionate about building scalable applications and contributing to open source tools to enhance developer productivity. My current interest lies in GraphQL and GraphQL federation. I work day-to-day with technologies such as TypeScript, React, Node.js, Express, GraphQL, PostgreSQL, NoSQL, and Python.
-
-### Open Source Projects
-&emsp;• Kensa - a GraphQL observability tool. Check out the app <a href="https://github.com/oslabs-beta/Kensa">here</a>, and the most recent article about Kensa <a href="https://medium.com/@raygkim/kensa-8cdecfae73af">here</a>.
-<br />
-&emsp;• Todo-AI - To-Do List app that uses Machine Learning to study user's behaviors and make personalized recommendations.
-<br />
-&emsp;• Flashcard - a web app to create and store personalized flashcards.
-<br />
-&emsp;• JPEG-Marketplace - a central trading platform for JPEG NFT-like assets.
-<br />
-&emsp;• whatsnext - a mood journals and goals tracker web app.
-  
 ### Contact me
 
 Please reach out to me at <a href="br.pham13@gmail.com">br.pham13@gmail.com</a>.
